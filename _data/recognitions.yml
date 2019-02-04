@@ -12,4 +12,8 @@
 - award: otra
   organization: cosa
   year: 2014
+<<<<<<< HEAD
   summary: no tan chida
+=======
+  summary: chida
+>>>>>>> test
